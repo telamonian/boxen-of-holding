@@ -1,0 +1,4 @@
+#!/bin/bash
+#fill in this file with your own git (or perhaps, GitHub?) user name and email and drop the .example from the filename
+git config --global user.name telamonian
+git config --global user.email mklein@jhu.edu

@@ -1,3 +1,6 @@
 /bakups
-/puppet*
+
 /boxen*
+/puppet*
+
+/src/shared/git/30_git_user_setup.sh

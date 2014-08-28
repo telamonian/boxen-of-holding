@@ -9,4 +9,4 @@ cd /opt/boxen/repo
 
 set +e
 script/bootstrap
-#script/boxen --no-fde --debug
+script/boxen --no-fde --debug
